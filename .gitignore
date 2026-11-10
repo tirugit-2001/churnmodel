@@ -12,6 +12,7 @@ __pycache__/
 
 # TensorBoard logs
 logs/
+regressionlogs/
 
 # Secrets
 .env
